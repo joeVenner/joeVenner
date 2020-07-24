@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joevenner&show_icons=true" alt="joevenner" />
 </p>
 
 <p align="center">
