@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
- <body>
+
+<body>
 <h1 align="center">Hi 👋, I'm Joe Venner</h1>
 <h3 align="center">A passionate Python developer from Morocco</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
@@ -22,6 +21,5 @@
 <a href="https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="python with joe" height="20" width="20" /></a>
 </p>
 
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  </body>
-</html>
+</body>
+
