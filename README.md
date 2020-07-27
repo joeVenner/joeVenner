@@ -9,7 +9,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=joevenner&show_icons=true" alt="joevenner" />
 
-<h4 align="center">always up for coffee - 
+<h4 align="center">always up for coffee  - 
 <a href="https://ko-fi.com/joevenner" aria-label="Follow @joevenner on GitHub"><img align="center" src="https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif" alt="support" height="60" width="200" /></a>
 </h4>
 <p align="center">
