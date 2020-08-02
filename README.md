@@ -1,9 +1,24 @@
 
-<body>
-<h1 align="center">Hi 👋, I'm Joe Venner</h1>
-<h3 align="center">A passionate Python developer from Morocco</h3>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
+```sh
+
+             _        _            _     _          _       _            _             _             _            _      
+            /\ \     /\ \         /\ \  /\ \    _ / /\     /\ \         /\ \     _    /\ \     _    /\ \         /\ \    
+            \ \ \   /  \ \       /  \ \ \ \ \  /_/ / /    /  \ \       /  \ \   /\_\ /  \ \   /\_\ /  \ \       /  \ \   
+            /\ \_\ / /\ \ \     / /\ \ \ \ \ \ \___\/    / /\ \ \     / /\ \ \_/ / // /\ \ \_/ / // /\ \ \     / /\ \ \  
+           / /\/_// / /\ \ \   / / /\ \_\/ / /  \ \ \   / / /\ \_\   / / /\ \___/ // / /\ \___/ // / /\ \_\   / / /\ \_\ 
+  _       / / /  / / /  \ \_\ / /_/_ \/_/\ \ \   \_\ \ / /_/_ \/_/  / / /  \/____// / /  \/____// /_/_ \/_/  / / /_/ / / 
+ /\ \    / / /  / / /   / / // /____/\    \ \ \  / / // /____/\    / / /    / / // / /    / / // /____/\    / / /__\/ /  
+ \ \_\  / / /  / / /   / / // /\____\/     \ \ \/ / // /\____\/   / / /    / / // / /    / / // /\____\/   / / /_____/   
+ / / /_/ / /  / / /___/ / // / /______      \ \ \/ // / /______  / / /    / / // / /    / / // / /______  / / /\ \ \     
+/ / /__\/ /  / / /____\/ // / /_______\      \ \  // / /_______\/ / /    / / // / /    / / // / /_______\/ / /  \ \ \    
+\/_______/   \/_________/ \/__________/       \_\/ \/__________/\/_/     \/_/ \/_/     \/_/ \/__________/\/_/    \_\/    
+                                                                                                                         
+                                                                                                                 
+                                  Machine Learning • FullStack Developer • Hacker
+
+```
+
+<body> 
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
 <p align="center">
@@ -19,6 +34,7 @@
 <a href="https://instagram.com/yassir_lamo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yassir_lamo" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="python with joe" height="20" width="20" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
 
 </body>
 
