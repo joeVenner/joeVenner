@@ -33,6 +33,7 @@
 <a href="https://fb.com/yassir.lafrimi.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yassir.lafrimi.3" height="20" width="20" /></a>
 <a href="https://instagram.com/yassir_lamo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yassir_lamo" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="python with joe" height="20" width="20" /></a>
+<a href="https://api.whatsapp.com/send?phone=212708080301&text=Hey%20Joe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="python with joe" height="20" width="20" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joevenner" alt="joevenner" /> </p>
 
