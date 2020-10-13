@@ -14,7 +14,7 @@
   \/_______/   \/_________/ \/__________/       \_\/ \/__________/\/_/     \/_/ \/_/     \/_/ \/__________/\/_/    \_\/    
                                                                                                                          
                                                                                                                  
-                                      Machine Learning • FullStack Developer • Hacker
+                                      Data Analyst • FullStack Developer • Hacker
 
 ```
 
