@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center" align="left">
 <a href="https://twitter.com/ylafrimi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ylafrimi" height="30" width="40" /></a>
