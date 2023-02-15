@@ -1,1 +1,1 @@
-<img float="center" href="lafrimi.me" src="https://i.ibb.co/3SmB99Z/portfolio3.gif" alt="Desktop Preview" aria-label="desktop screenshot"> 
+
